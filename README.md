@@ -44,29 +44,29 @@ Project #2 will be graded using the following rubric. I strongly suggest evaluat
 
 | **Description/Writing**  |**I think I deserve:**   |**Actual Grade**|**Notes** |
 | :------------------------------- | -------: | ----: |:---- |
-| 1: Problem                       |        /1|       /1|    |
-| 2: Explore the Data              |        /5|       /5|    | 
-| 3: Data Prep                     |        /1|       /1|    |
-| 4: Metrics                       |        /1|       /1|    | 
-| 5: Model Planning and Execution  |        /1|       /1|    |
-| 6: Bumps in the Road.            |        /1|       /1|    |
-| 7: Results                       |        /1|       /1|    | 
-| 8: Discussion/Conclusion.        |        /1|       /1|    |
-| <b>Total                         |       /12 |     /12 </b>   |
+| 1: Problem                       |        1/1|       /1|    |
+| 2: Explore the Data              |        5/5|       /5|    | 
+| 3: Data Prep                     |        1/1|       /1|    |
+| 4: Metrics                       |        1/1|       /1|    | 
+| 5: Model Planning and Execution  |        1/1|       /1|    |
+| 6: Bumps in the Road.            |        1/1|       /1|    |
+| 7: Results                       |       1/1|       /1|    | 
+| 8: Discussion/Conclusion.        |        1/1|       /1|    |
+| <b>Total                         |       12/12 |     /12 </b>   |
 
 | **Code**  |**I think I deserve:**   |**Actual Grade**   |**Notes** |
 | :------------------------------- | -------: |-------: | :---- |
-| 1: SVC                           |        /1|        /1|   |
-| 2: PCA                           |        /1|        /1|   | 
-| 3: Perceptron                    |        /1|        /1|   |
-| 4: Multilayer Perceptron         |        /1|        /1|   | 
-| 5: 4 Visualizations              |        /4|        /4|   | 
-| <b>Total                         |       /8 |        /8|</b>   |
+| 1: SVC                           |        1/1|        /1|   |
+| 2: PCA                           |        1/1|        /1|   | 
+| 3: Perceptron                    |        1/1|        /1|   |
+| 4: Multilayer Perceptron         |        1/1|        /1|   | 
+| 5: 4 Visualizations              |        4/4|        /4|   | 
+| <b>Total                         |       8/8 |        /8|</b>   |
 
 | **Extra Credit**  |**I think I deserve:**   |**Actual Grade**   |**Notes** |
 | :------------------------------- | -------: | ----: |:---- |
-| Word-Level Language Model             |        /1|       /1|   |
-| Examples of Generated Movie Reveiw    |        /1|       /1|   |
+| Word-Level Language Model             |        0/1|       /1|   |
+| Examples of Generated Movie Reveiw    |        0/1|       /1|   |
 
 
 | **Written Portion** 📝 | **Code Portion** 🖥️ | **Extra Credit** ✨  |**Total** ➕ |**Notes** 🗒️|
